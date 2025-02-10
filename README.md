@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreenadhbalasundaram
-- 👀 I’m interested in ...Datascience
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...Automation 
+- 🌱 I’m currently learning ...Python,Java,JS many more..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
